@@ -2,6 +2,7 @@
 {
     /// <summary>
     /// 资产类别
+    /// Asset Class
     /// </summary>
     public enum AssetType : byte
     {
